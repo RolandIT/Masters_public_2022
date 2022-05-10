@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "732169958572",
+    "firebase_url": "https://parkingstatus-5cf98-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "parkingstatus-5cf98",
+    "storage_bucket": "parkingstatus-5cf98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732169958572:android:1cea18b2b65e386d475b09",
+        "android_client_info": {
+          "package_name": "com.fiit.parkingstatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732169958572-hieg80f4hgsa85afmiqggpstsb499hcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fiit.parkingstatus",
+            "certificate_hash": "d741409832c332999eb97ef86005e0beea22d131"
+          }
+        },
+        {
+          "client_id": "732169958572-cq4bp161s2r9cu15s77nkramp5bk3ofb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJMSeMTjFpzbChgab6uAdS53FVzCRdbMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732169958572-cq4bp161s2r9cu15s77nkramp5bk3ofb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

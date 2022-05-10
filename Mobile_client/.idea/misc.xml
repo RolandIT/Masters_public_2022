@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/drawable/ic_car.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/drawable/ic_parking.xml" value="0.3828125" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/drawable/ic_star.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/drawable/side_nav_bar.xml" value="0.3828125" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/layout/activity_plot_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/layout/app_bar_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/layout/content_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/layout/content_plot_view.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/layout/demo_park_layout.xml" value="0.33" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/layout/demo_plot_layout.xml" value="0.33" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/layout/fiit_b_plot_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/layout/fiit_plot_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/layout/fragment_gallery.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/layout/fragment_home.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/layout/fragment_plot_layout.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/layout/nav_header_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/layout/nav_parking_list.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/layout/parking_list_fragment.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/layout/plot_view_fragment.xml" value="0.41041666666666665" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/layout/plots_cards_layout.xml" value="0.75" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/rolan/OneDrive/Documents/STU FIIT/Masters thesis/DP_git/Masters_thesis/DP_APP/app/src/main/res/menu/main.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

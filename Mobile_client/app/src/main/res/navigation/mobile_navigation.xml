@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.fiit.parkingstatus.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_nav_plot_view2"
+            app:destination="@id/nav_plot_view" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_parking_list"
+        android:name="com.fiit.parkingstatus.ui.parkinglist.ParkingListFragment"
+        android:label="@string/parking_list"
+        tools:layout="@layout/parking_list_fragment">
+        <action
+            android:id="@+id/action_nav_parking_list_to_nav_plot_view"
+            app:destination="@id/nav_plot_view" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_plot_view"
+        android:name="com.fiit.parkingstatus.ui.plotview.PlotViewFragment"
+        android:label="@string/parking_list"
+        tools:layout="@layout/parking_list_fragment"/>
+</navigation>

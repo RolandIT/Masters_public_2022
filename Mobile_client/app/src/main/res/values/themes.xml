@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ParkingStatus" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/darkPrimary</item>
+        <item name="colorPrimaryVariant">@color/darkPrimary</item>
+        <item name="colorOnPrimary">@color/darkSecondary</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/darkSecondary</item>
+        <item name="colorSecondaryVariant">@color/darkPrimary</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/darkPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.ParkingStatus.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.ParkingStatus.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.ParkingStatus.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
